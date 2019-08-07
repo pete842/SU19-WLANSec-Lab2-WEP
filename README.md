@@ -30,6 +30,7 @@ In this part, you will recover the Python script [`manual-decryption.py`](./file
    
 - Compare the output of the script with the capture text decrypted by Wireshark
    
+   *The messages decrypted by the script and Wireshark are the same.*
 - Analyse the code of the script
 
 
