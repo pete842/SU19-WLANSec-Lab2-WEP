@@ -39,4 +39,5 @@ text_encrypted = message_enc[:-4]
 
 arp.wepdata = text_encrypted
 arp.icv = icv_numerique
+print icv_numerique
 wrpcap('arp_custom.cap', arp)
