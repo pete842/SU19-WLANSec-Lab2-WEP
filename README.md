@@ -1,6 +1,8 @@
 # Wireless Networks and Security
 
-Team: Pierre Kohler, Pierrick Müller, Kim Wonkyeong
+## Names
+Pierre Kohler, Pierrick Muller, Kim Wonkyeong
+=======
 
 ## WEP Security
 
